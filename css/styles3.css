@@ -1,0 +1,15 @@
+body{
+
+    color:rgb(0,0,0);
+    background-color:rgb(230, 245, 255);
+    font-family:Arial, Helvetica, sans-serif ;
+    margin-left:10px;
+    margin-right:10px;
+}
+.chefs {margin-top:5%;}
+.title {margin-top:10px;}
+
+.border {
+    border-style: solid;
+     border-width: medium;
+}
